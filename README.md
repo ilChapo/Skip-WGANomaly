@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="images/IMG_SKIPWGANOMALY_HIGHRES.png" width="600px">
+
+</div>
+___
+
 # Skip-WGANomaly
 
 Skip-WGANomaly: Unsupervised Image Anomaly Detection Based in WGAN
