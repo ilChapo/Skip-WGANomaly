@@ -45,7 +45,7 @@ Example: run a RayTune test on CIFAR-10 with Skip-WGANomaly.
 ```
 python train_tune.py --dataset cifar10 --abnormal_class 'bird' --tune True  --display --model "w_skipganomaly"
 ```
-Parameters to be tested for tuning have to be edited and personalized inside `train_tune.py.
+Parameters to be tested for tuning have to be edited and personalized inside `train_tune.py`.
 ### 3.3. Train on Custom Dataset
 To train the model on a custom dataset, the dataset should be copied into `./data` directory, and should have the following directory & file structure:
 
